@@ -8,7 +8,7 @@ data.data_readCliente()
 data.data_readPelicula()
 
 render = web.template.render('templates/', base = 'base')
-db = web.database(dbn='mysql', db='rentas', user='root', pw='kuro')
+db = web.database(dbn='mysql', db='ytodtwrlzpmxeqhl', user='qm362h5tkgrvfcb2', pw='owam27yh1us2v21j')
 
 
 
